@@ -86,12 +86,6 @@ https://ghost-aku.github.io/
 
 修改 index.html、home/style.css 或 home/app.js 后，推送到 main，GitHub Pages 会自动更新。
 
-## 许可
-
-网站首页代码与原创页面素材采用 [MIT License](./LICENSE) 发布。
-
-bw/ 与 assets/ 中的虚拟漫展内容沿用其原有许可与版权声明；如果你要复用这些内容，请先查看对应文件和上游项目说明。
-
 ## English
 
 This repository contains **GHOST_AKU's personal website**: a small, evolving home for code experiments, games, virtual spaces, AI explorations, open protocols, and curious questions.
@@ -105,7 +99,3 @@ Run locally:
     python3 -m http.server 8000
 
 The site is deployed from the main branch root through GitHub Pages.
-
-## License
-
-The personal homepage code and original page assets are released under the [MIT License](./LICENSE). The preserved bw/ and assets/ content remains subject to its original licensing and attribution terms.
